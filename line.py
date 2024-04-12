@@ -24,4 +24,4 @@ def line():
     print(f"P2: ({X2}, {Y2})")
 
     print("La distancia entre ellos es:" +str(math.dist(P1 , P2)))
-line()
+
