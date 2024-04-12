@@ -3,9 +3,9 @@ def line():
 
 
     a=float(input("Ingrese el coeficiente A: "))
-    b=input("Ingrese el coeficiente B: "))
-    X1=float(input("Ingrese el coeficiente X1:"))
-    X2=float(input("Ingrese el coeficiente X2:"))
+    b=float(input("Ingrese el coeficiente B: "))
+    X1=float(input("Ingrese el coeficiente X1: "))
+    X2=float(input("Ingrese el coeficiente X2: "))
     Y1=float(a*X1+b)
     Y2=float(a*X2+b)
     P1= ({X1}, {Y1})
